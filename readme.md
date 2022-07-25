@@ -8,6 +8,6 @@
 
 1. inside this folder, run `flask run`
 2. then run `ngrok http 127.0.0.1:5000/` (localhost and port for flask api running)
-3. ngrok will give you a puplic URL that can be used in the integration to listen to different events, something like " https://c631-88-92-175-248.eu.ngrok.io".
+3. ngrok will give you a public URL that can be used in the integration to listen to different events, something like " https://c631-88-92-175-248.eu.ngrok.io".
 
 NOTE: Ngrok urls are blocked on the internal cisco net, but can still be used by the workspace integration.
